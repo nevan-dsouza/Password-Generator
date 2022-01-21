@@ -15,10 +15,10 @@
 
 <br/>
 
-## **Employee's Portfolio**
-![Horiseon Landing Page](./assets/images/CapturePage.png)
+## **Password Generator Page**
+![Password Generator Page](./assets/images/CapturePage.png)
 
 <br/>
 
-### Click [here](https://nevan-dsouza.github.io/MyPortfolio/) to view the website 
+### Click [here](https://nevan-dsouza.github.io/Password-Generator/) to view the page
 <br/>
