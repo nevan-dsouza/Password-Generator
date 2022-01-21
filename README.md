@@ -16,7 +16,7 @@
 <br/>
 
 ## **Password Generator Page**
-![Password Generator Page](./assets/images/CapturePage.png)
+![Password Generator Page](./Assets/CapturePage.png)
 
 <br/>
 
