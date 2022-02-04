@@ -2,7 +2,6 @@
 ### This is a quick, customizable random password generator intended to meet high security criterias for sensitive data.
 <br/>
 
-#
 
 ## **What was the employer's User Story?**
 * The employer wanted to randomly customize and generate a password that meets the strong password criteria, providing high security.
